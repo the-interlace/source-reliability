@@ -1,3 +1,5 @@
+This is a quick aggregation of snapshots of reliability assessments for media and other sources. 
+
 # source-reliability
 
 NewsQ: 8+ collections of source evaluations along different dimensions (ca 2020).
@@ -9,3 +11,7 @@ Wikipedia: Reliable Sources tables on wikipedia
 * topical Reliable Sources lists -- dozens in English alone.
 
 Wikidata: there are few scattered source-reliablity assessments referenced on Wikidata. A recent discussion about how to add these programmatically led to the fledgling [Credibility Ratings + Assessments Project](https://www.wikidata.org/wiki/Wikidata:CRAP).
+
+Predatory journals:
+* [Bealls + more](https://github.com/CfKu/check-bib-for-predatory) - predatory & hijacked journals, predatory publishers
+* [composite list](https://en.wikipedia.org/wiki/Wikipedia:Vanity_and_predatory_publishing) (via WP)
