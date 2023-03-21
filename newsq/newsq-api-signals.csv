@@ -1,0 +1,97 @@
+Signal Name,Label,License,Short Description,Source
+abyz_city_v1,ABYZ City,newsq,The city name associated with an ABYZ directory entry,ABYZ News Links
+abyz_language_v1,ABYZ Language,newsq,The language assocated with an ABYZ directory entry,ABYZ News Links
+abyz_media_focus_v1,ABYZ Media Focus,newsq,The media focus associated with an ABYZ directory entry,ABYZ News Links
+abyz_media_type_v1,ABYZ Media Type,newsq,The media type associated with an ABYZ directory entry,ABYZ News Links
+abyz_state_v1,ABYZ State,newsq,The state name associated with an ABYZ directory entry.,ABYZ News Links
+ads_txt,Ads.txt presence,open,Describes if ads.txt is available at the source entity url.,NewsQ
+eppy_award,EPPY Award,open,Winners of the EPPY Award (digital media),Editor & Publisher
+factmata_unified_risk_score_v1,Unified Risk Score,newsq,"The Unified Risk Score represents the likelihood that the content will be harmful to a brand, platform or individual.",FactMata
+is_member_of_vsn,Members of the WHO Vaccine Safety Net,open,,"World Health Organization, Vaccine Safety Network"
+kinzen_community_curated_news_source,Kinzen Community Curated News Source,newsq,Categories of curated news websites,Kinzen
+language,Language,"open, newsq","Two-character (""en"") language codes relevant to website or outlet.","CUNY Newmark Graduate School of Journalism, ABYZ News Links"
+markkula_journalism_ethics,Markkula Journalism Ethics,newsq,"Quantification of ""Journalism Ethics"" signals on US websites",Markkula Journalism Ethics
+murrow_prizelist_v1,Edward R Murrow Prizes,open,List of all Edward R Murrow Awards a particular website has received.,Edward R Murrow Award
+nobias_rating_v2,NoBias Rating,newsq,Editorial rating of credibility based on LexisNexis Source Ranks.,Nobias
+nobias_slant_v2,Nobias Slant,newsq,An analysis of the relative political slant of a news source.,Nobias
+oii_jn_criteria_v2,Junk News Criteria,newsq,"Sources of """"junk news"""" as defined by the Computational Propaganda group of the Oxford Internet Institute at the University of Oxford",OII
+pulitzer_prizelist_v2,Pulitzer Prizes,open,Enumeration of finalist/winner status of publication for currently awarded Pulitzer Prize Categories.,The Pulitzer Prize
+tm_ad_clutter_v1,Advertising Clutter,newsq,Summation of various ad-related analyses to take into account the overall impact of a site’s ad environment on user experience.,Trust Metrics
+tm_advertiser_overall_safety_v1,Advertiser Safety,newsq,Overall analysis of whether or not a site has safety concerns.,Trust Metrics
+tm_category_v1,Category,newsq,Contextual focus of the site.,Trust Metrics
+tm_content_contains_hate_v1,Content - Contains Hate,newsq,Overall assessment of whether or not the site contains excessive hate speech.,Trust Metrics
+tm_content_contains_pornography_v1,Content - Contains Pornography,newsq,Presence of pornographic material on a site.,Trust Metrics
+tm_content_contains_profanity_v1,Content - Contains Profanity,newsq,Overall assessment of whether or not the site is a profane environment.,Trust Metrics
+tm_content_contains_violence_v1,Content - Contains Violence,newsq,Overall assessment of whether or not a site contains violent material.,Trust Metrics
+tm_content_language_isenglish_v1,Content - English Language,newsq,Determines whether or not the primary language on the site is English.,Trust Metrics
+tm_content_ugc_level_v1,Content - UGC Level,newsq,Overall assessment of the ratio of user-generated to editorial content on a site.,Trust Metrics
+tm_opaque_inventory_v1,Opaque Inventory,newsq,Any website that does not serve ads.,Trust Metrics
+tm_opengraph_appid_v1,Opengraph AppID,newsq,"Opengraph AppID, as declared in the site’s home page HTML.",Trust Metrics
+tm_opengraph_description_v1,Opengraph Description,newsq,Opengraph Description as declared in the site’s home page HTML.,Trust Metrics
+tm_opengraph_image_v1,Opengraph Image,newsq,Opengraph Image as declared in the site’s home page HTML.,Trust Metrics
+tm_opengraph_title_v1,Opengraph Title,newsq,Opengraph Title as declared in the site’s home page HTML.,Trust Metrics
+tm_opengraph_url_v1,Opengraph URL,newsq,Opengraph URL as declared in the site’s home page HTML.,Trust Metrics
+tm_publication_about_us_v1,About Us,newsq,"Link to a site’s """"About Us"""" page with details about the site. This may include a mission statement, publisher info, and other relevant info.",Trust Metrics
+tm_publication_ad-mktg_contact_info_v1,Contact Info - Marketing / Advertising,newsq,Contact info for a publication's marketing or advertising department.,Trust Metrics
+tm_publication_articles_attributed_v1,Article Attribution,newsq,"Describes the ratio of articles that contain proper attribution to the number of total articles analyzed. """"Attribution"""" in this signal is defined by articles that contain an author’s full name rather than an anonymous admin (or publisher name or writer’s first name).",Trust Metrics
+tm_publication_contact_info_v1,Contact Info - Publication,newsq,Site has a clear ‘Contact Us’ page or a webform with means to contact site staff.,Trust Metrics
+tm_publication_corrections_policy_v1,Corrections Policy,newsq,"Link to a documented corrections policy that details why, when, and how errors and omissions will be annotated and/or corrected.",Trust Metrics
+tm_publication_editorial_contact_info_v1,Contact Info - Editorial,newsq,Email address to contact the editorial department or lead editor of the publication.,Trust Metrics
+tm_publication_geographic_focus_v1,Geographic Focus,newsq,This signal describes any geographic focus a publication purports to have.,Trust Metrics
+tm_publication_has_paywall_v1,Has Paywall,newsq,Indicates whether or not a site has a paywall or requires a user to log-in or register to access content.,Trust Metrics
+tm_publication_mailing_address_v1,Contact Info - Mailing Address,newsq,Physical mailing address for publication.,Trust Metrics
+tm_publication_news-submission_contact_info_v1,Contact Info - News Submission,newsq,Email address to submit news tips to the publication.,Trust Metrics
+tm_publication_privacy_policy_v1,Privacy Policy,newsq,Link to a site’s Privacy Policy.,Trust Metrics
+tm_publication_publisher_about_us_v1,About Us - Publisher,newsq,"""""About Us"""" page for the site’s publisher.",Trust Metrics
+tm_publication_publisher_v1,Publisher,newsq,Name of the publisher of the website.,Trust Metrics
+tm_publication_report_corrections_info_v1,Contact Info - Report Corrections,newsq,Email address to report errors and make corrections to material published on the site.Email address to report errors and make corrections to material published on the site.,Trust Metrics
+tm_publication_responsive_design_v1,Responsive Design,newsq,Does the site appear to be responsive?,Trust Metrics
+tm_raw_advertising_ad_iframe_count_hp_v1,Raw Advertising Ad Iframe Count,newsq,The raw count of the advertising iframes rendered on the site’s home page,Trust Metrics
+tm_raw_advertising_ad_images_count_hp_v1,Raw Advertising Ad Images Count,newsq,The raw count of the advertising images rendered on the site’s home page,Trust Metrics
+tm_raw_advertising_ad_pixel_fraction_above_fold_hp_v1,Raw Advertising Ad Pixel Fraction Above Fold,newsq,"Given a standardized desktop viewport, percentages of the pixels within that viewport taken up by advertising content.",Trust Metrics
+tm_raw_advertising_ad_pixel_fraction_total_hp_v1,Raw Advertising Ad Pixel Fraction Total,newsq,"Given a standardized desktop viewport, percentages of the pixels for the fully rendered homepage at that viewport width taken up by advertisements.",Trust Metrics
+tm_raw_advertising_hp_document_ad_pixels_v1,Raw Advertising Document Pixels,newsq,The raw count of pixels comprising the site's home page,Trust Metrics
+tm_raw_advertising_hp_viewport_ad_pixels_v1,Raw Advertising Viewport Pixels,newsq,"Given a standardized desktop viewport, the raw count of pixels in the analyzed viewport",Trust Metrics
+tm_raw_advertising_script_count_hp_v1,Raw Advertisement Script Count,newsq,The raw count of the advertising scripts called by the site's home page.,Trust Metrics
+tm_raw_code_accessibility_alt_tags_count_hp_v1,Raw Accessibility Alt Tags Count,newsq,The raw count of images with alt tags defined.,Trust Metrics
+tm_raw_code_accessibility_bold_element_count_hp_v1,Raw Accessibility Bold Count,newsq,The raw count of instances where content is bolded.,Trust Metrics
+tm_raw_code_accessibility_header_nesting_count_hp_v1,Raw Accessibility Header Nesting Count,newsq,The raw count of elements nested within HTML header tags.,Trust Metrics
+tm_raw_code_accessibility_heading_element_count_v1,Raw HP Accessibility Heading Element Count,newsq,Raw count of the total number of heading elements extracted from the site's homepage.,Trust Metrics
+tm_raw_code_accessibility_heading_element_nesting_count_v1,Raw HP Accessibility Heading Element Nesting Count,newsq,Raw count of nested header elements on site's home page.,Trust Metrics
+tm_raw_code_accessibility_image_element_count_v1,Raw HP Accessibility Image Element Count,newsq,Raw count of image elements on site's home page,Trust Metrics
+tm_raw_code_accessibility_image_fraction_hp_v1,Raw HP Accessibility Image Fraction,newsq,Images as a fraction of overall screen realestate.,Trust Metrics
+tm_raw_code_accessibility_input_element_count_v1,Raw HP Accessibility Input Element Count,newsq,Raw count of input elements on site's home page as extracted from the site's HTML code.,Trust Metrics
+tm_raw_code_accessibility_italic_count_hp_v1,Raw Accessibility Italic Count,newsq,The raw count of instances where content is italicized.,Trust Metrics
+tm_raw_code_accessibility_unlabeled_inputs_hp_v1,Raw Accessibility Unlabled Inputs,newsq,Raw count of unlabled input elements on site homepage.,Trust Metrics
+tm_raw_code_cookie_3rd_party_count_hp_v1,Raw Cookie 3rd Party Count,newsq,Raw count of 3rd party cookies on site homepage.,Trust Metrics
+tm_raw_code_cookie_count_hp_v1,Raw Cookie Count,newsq,Raw count of cookies on site homepage.,Trust Metrics
+tm_raw_code_declared_language_v1,Raw Declared Language,newsq,The language declared in the HTML for the site’s home page.,Trust Metrics
+tm_raw_code_dtd_v1,Raw Code DTD,newsq,The DTD declared in the HTML for the site’s home page.,Trust Metrics
+tm_raw_code_favicon_url_v1,Raw Favicon URL,newsq,The favicon declared in the HTML for the site’s home page.,Trust Metrics
+tm_raw_code_forces_https_v1,Raw Forced HTTPS,newsq,Whether or not the homepage (loaded as HTTP) forces a redirect to HTTPS.,Trust Metrics
+tm_raw_code_hp_elements_iframe_count_v1,Raw HP iFrame Count,newsq,Raw Homepage iFrame Count,Trust Metrics
+tm_raw_code_hp_elements_image_count_v1,Raw HP Image count,newsq,Raw Homepage Image count,Trust Metrics
+tm_raw_code_hp_elements_script_count_v1,Raw HP Script Count,newsq,"Raw count of scripts present on the site's home page, as extracted from the site's HTML code.",Trust Metrics
+tm_raw_code_hp_title_v1,Raw HP Title,newsq,Raw Home Page Title,Trust Metrics
+tm_raw_code_https_available_v1,Raw Available HTTPS,newsq,Call to home page over HTTPS returns 200 response.,Trust Metrics
+tm_raw_code_redirect_redirected_v1,Redirected URL,newsq,Does a request to http://[siteurl] redirect ?,Trust Metrics
+tm_raw_code_redirect_url_v1,Raw Redirect URL,newsq,Page ultimately served in response to a request to http://[siteurl],Trust Metrics
+tm_raw_code_standards_error_count_v1,Raw Standards Error Count,newsq,Number of errors thrown during page parsing by a standards-based parserNumber of errors thrown during page parsing by a standards based parser,Trust Metrics
+tm_raw_code_standards_responsive_v1,Raw Responsiveness Indicator,newsq,Does the homepage code show indicators of responsive coding?,Trust Metrics
+tm_raw_code_standards_valid_v1,Raw Standards Validity Indicator,newsq,Does the site’s homepage parse with zero errors?,Trust Metrics
+tm_raw_code_standards_version_v1,Raw Standards Version,newsq,"HTML Standards version, as declared in the raw html code for the site's home page.",Trust Metrics
+tm_raw_hp_document_total_pixel_count_v1,HP Total Pixel Area,newsq,The total pixel area occupied by the home page.,Trust Metrics
+tm_raw_hp_image_total_pixel_count_v1,Homepage Image Pixel Area,newsq,The total pixel area occupied by images on the home page.,Trust Metrics
+tm_raw_terms_hate_fraction_hp_v1,Raw Terms Hate Fraction,newsq,Ratio of Hate Terms to Total Words on Homepage,Trust Metrics
+tm_raw_terms_hate_match_count_hp_v1,Raw Terms Hate Match Count,newsq,Demonstration: Count of Hate Terms on Home Page,Trust Metrics
+tm_raw_terms_profanity_fraction_hp_v1,Raw Terms Profanity Fraction,newsq,Demo: Ratio of Profanity to Total Wordcount,Trust Metrics
+tm_raw_terms_profanity_match_count_hp_v1,Raw Terms Profanity Match Count,newsq,Demo: Count of Profanity terms on site home page,Trust Metrics
+tm_redirect_url_v1,Redirect URL,newsq,Lists the URL a site redirects to in the event that the top-level domain (TLD) is different from the target URL.,Trust Metrics
+tm_twitter_android_app_v1,Twitter Android App,newsq,Android app declared in site HTML headers.,Trust Metrics
+tm_twitter_card_v1,Twitter Card,newsq,Twitter Card declared in site HTML,Trust Metrics
+tm_twitter_description_v1,Twitter Description,newsq,Twitter Description declared in site HTML,Trust Metrics
+tm_twitter_image_v1,Twitter Image,newsq,Twitter Image declared in site HTML,Trust Metrics
+tm_twitter_ios_app_v1,Twitter IOS App,newsq,Twitter iOS App declared in site HTML,Trust Metrics
+tm_twitter_site_v1,Twitter Site,newsq,Twitter Site declared in site HTML,Trust Metrics
+tm_ux_v1,User Experience Score,newsq,"Overall summation evaluation of a site’s professionalism from a design, user experience, and content relevancy perspective.",Trust Metrics
+wikipedia_perennial_sources_reliability_guidance,Wikipedia Perennial Sources Reliability Guidance,open,Evaluations of sources from English Wikipedia,Wikipedia
