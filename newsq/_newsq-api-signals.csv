@@ -9,12 +9,12 @@ eppy_award,EPPY Award,open,Winners of the EPPY Award (digital media),Editor & Pu
 factmata_unified_risk_score_v1,Unified Risk Score,newsq,"The Unified Risk Score represents the likelihood that the content will be harmful to a brand, platform or individual.",FactMata
 is_member_of_vsn,Members of the WHO Vaccine Safety Net,open,,"World Health Organization, Vaccine Safety Network"
 kinzen_community_curated_news_source,Kinzen Community Curated News Source,newsq,Categories of curated news websites,Kinzen
-language,Language,"open, newsq","Two-character (""en"") language codes relevant to website or outlet.","CUNY Newmark Graduate School of Journalism, ABYZ News Links"
-markkula_journalism_ethics,Markkula Journalism Ethics,newsq,"Quantification of ""Journalism Ethics"" signals on US websites",Markkula Journalism Ethics
+language,Language,"open, newsq","Two-character (en) language codes relevant to website or outlet.","CUNY Newmark Graduate School of Journalism, ABYZ News Links"
+markkula_journalism_ethics,Markkula Journalism Ethics,newsq,"Quantification of Journalism Ethics signals on US websites",Markkula Journalism Ethics
 murrow_prizelist_v1,Edward R Murrow Prizes,open,List of all Edward R Murrow Awards a particular website has received.,Edward R Murrow Award
 nobias_rating_v2,NoBias Rating,newsq,Editorial rating of credibility based on LexisNexis Source Ranks.,Nobias
 nobias_slant_v2,Nobias Slant,newsq,An analysis of the relative political slant of a news source.,Nobias
-oii_jn_criteria_v2,Junk News Criteria,newsq,"Sources of """"junk news"""" as defined by the Computational Propaganda group of the Oxford Internet Institute at the University of Oxford",OII
+oii_jn_criteria_v2,Junk News Criteria,newsq,"Sources of junk news as defined by the Computational Propaganda group of the Oxford Internet Institute at the University of Oxford",OII
 pulitzer_prizelist_v2,Pulitzer Prizes,open,Enumeration of finalist/winner status of publication for currently awarded Pulitzer Prize Categories.,The Pulitzer Prize
 tm_ad_clutter_v1,Advertising Clutter,newsq,Summation of various ad-related analyses to take into account the overall impact of a site’s ad environment on user experience.,Trust Metrics
 tm_advertiser_overall_safety_v1,Advertiser Safety,newsq,Overall analysis of whether or not a site has safety concerns.,Trust Metrics
@@ -31,9 +31,9 @@ tm_opengraph_description_v1,Opengraph Description,newsq,Opengraph Description as
 tm_opengraph_image_v1,Opengraph Image,newsq,Opengraph Image as declared in the site’s home page HTML.,Trust Metrics
 tm_opengraph_title_v1,Opengraph Title,newsq,Opengraph Title as declared in the site’s home page HTML.,Trust Metrics
 tm_opengraph_url_v1,Opengraph URL,newsq,Opengraph URL as declared in the site’s home page HTML.,Trust Metrics
-tm_publication_about_us_v1,About Us,newsq,"Link to a site’s """"About Us"""" page with details about the site. This may include a mission statement, publisher info, and other relevant info.",Trust Metrics
+tm_publication_about_us_v1,About Us,newsq,"Link to a site’s About Us page with details about the site. This may include a mission statement, publisher info, and other relevant info.",Trust Metrics
 tm_publication_ad-mktg_contact_info_v1,Contact Info - Marketing / Advertising,newsq,Contact info for a publication's marketing or advertising department.,Trust Metrics
-tm_publication_articles_attributed_v1,Article Attribution,newsq,"Describes the ratio of articles that contain proper attribution to the number of total articles analyzed. """"Attribution"""" in this signal is defined by articles that contain an author’s full name rather than an anonymous admin (or publisher name or writer’s first name).",Trust Metrics
+tm_publication_articles_attributed_v1,Article Attribution,newsq,"Describes the ratio of articles that contain proper attribution to the number of total articles analyzed. Attribution is defined by articles that contain an author’s full name rather than an anonymous editor (or publisher's name or writer’s first name).",Trust Metrics
 tm_publication_contact_info_v1,Contact Info - Publication,newsq,Site has a clear ‘Contact Us’ page or a webform with means to contact site staff.,Trust Metrics
 tm_publication_corrections_policy_v1,Corrections Policy,newsq,"Link to a documented corrections policy that details why, when, and how errors and omissions will be annotated and/or corrected.",Trust Metrics
 tm_publication_editorial_contact_info_v1,Contact Info - Editorial,newsq,Email address to contact the editorial department or lead editor of the publication.,Trust Metrics
@@ -42,7 +42,7 @@ tm_publication_has_paywall_v1,Has Paywall,newsq,Indicates whether or not a site 
 tm_publication_mailing_address_v1,Contact Info - Mailing Address,newsq,Physical mailing address for publication.,Trust Metrics
 tm_publication_news-submission_contact_info_v1,Contact Info - News Submission,newsq,Email address to submit news tips to the publication.,Trust Metrics
 tm_publication_privacy_policy_v1,Privacy Policy,newsq,Link to a site’s Privacy Policy.,Trust Metrics
-tm_publication_publisher_about_us_v1,About Us - Publisher,newsq,"""""About Us"""" page for the site’s publisher.",Trust Metrics
+tm_publication_publisher_about_us_v1,About Us - Publisher,newsq,"About Us page for the site’s publisher.",Trust Metrics
 tm_publication_publisher_v1,Publisher,newsq,Name of the publisher of the website.,Trust Metrics
 tm_publication_report_corrections_info_v1,Contact Info - Report Corrections,newsq,Email address to report errors and make corrections to material published on the site.Email address to report errors and make corrections to material published on the site.,Trust Metrics
 tm_publication_responsive_design_v1,Responsive Design,newsq,Does the site appear to be responsive?,Trust Metrics
