@@ -14,6 +14,7 @@ These include ABYZ News, the Eppys, Kinzen Community Curators, a Latinx media li
 **Iffy.news**:  
 * MBFC assessments, for US outlets, just credibility& factual reporting ratings. Minus ~2% of outlets where the MBFC assessment is contentious.
 * [Misinfo.me](https://misinfo.me) 
+* List of pink-slime sites (fake local-news sites, astroturfed)
 
 ## Science
 Predatory journals:
