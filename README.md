@@ -1,4 +1,5 @@
 This is a quick aggregation of snapshots of reliability assessments for media and other sources. 
+Examples of sources that we'd like to include timestamped snapshots of (please add them or submit a PR)
 
 # source-reliability
 
@@ -15,3 +16,11 @@ Wikidata: there are few scattered source-reliablity assessments referenced on Wi
 Predatory journals:
 * [Bealls + more](https://github.com/CfKu/check-bib-for-predatory) - predatory & hijacked journals, predatory publishers
 * [composite list](https://en.wikipedia.org/wiki/Wikipedia:Vanity_and_predatory_publishing) (via WP)
+
+Media bias/fact check 
+* 3 assessments: Credibility, Factual reporting, Media bias
+: /somewhat contentious; not accepted on WP/
+
+Iffy.news:  
+* Media bias/fact check assessments, for US outlets, just credibility& factual reporting ratings. Minus ~2% of outlets where the MBFC assessment is contentious.
+* Misinfo.me 
