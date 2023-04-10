@@ -7,12 +7,12 @@ Examples of sources that we'd like to include timestamped snapshots of (please a
 NewsQ: 8+ collections of source evaluations along different dimensions (ca 2020).
 These include ABYZ News, the Eppys, Kinzen Community Curators, a Latinx media list, the Markkula Center for Journalism Ethics, NoBias, Vaccine Safety Network, Wikipedia
 
-Media bias/fact check ([url](https://mediabiasfactcheck.com/))
+Media bias/fact check ([MBFC](https://mediabiasfactcheck.com/))
 * 3 assessments: Credibility, Factual reporting, Media bias
 : /somewhat contentious; not accepted on WP/
 
 Iffy.news:  
-* Media bias/fact check assessments, for US outlets, just credibility& factual reporting ratings. Minus ~2% of outlets where the MBFC assessment is contentious.
+* MBFC  assessments, for US outlets, just credibility& factual reporting ratings. Minus ~2% of outlets where the MBFC assessment is contentious.
 * [Misinfo.me](https://misinfo.me) 
 
 ## Science
